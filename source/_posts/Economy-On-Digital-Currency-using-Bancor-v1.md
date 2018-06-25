@@ -229,6 +229,6 @@ Today, having Bancor Protocol in place, as either a buyer or seller in the digit
  
 REFERENCES 
 
-[1. https://storage.googleapis.com/website-] (https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
+[Reference 1.](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
 
-[2. https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-] (https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-)
+[Reference 2.](https://support.bancor.network/hc/en-us/articles/360000471472-How-do-Relay-Tokens-work-)
