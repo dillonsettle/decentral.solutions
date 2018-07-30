@@ -28,6 +28,12 @@ hexo server
 ```
 navigate to `localhost:4000` on your webbrowser
 
+## Updating the theme 
+
+### Update to the latest commit
+```bash
+git submodule update --remote
+```
 
 ## Deploying to Production
 
