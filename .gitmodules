@@ -1,0 +1,3 @@
+[submodule "themes/decentral"]
+	path = themes/decentral
+	url = git@github.com:decentral-inc/decentral.git
