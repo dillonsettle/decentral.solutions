@@ -33,7 +33,6 @@ On Day 1, Ling Qing delivered insight and direction on how to deploy an **Ethere
 Ling Qing took the students through an interactive example highlighting how to use and implicate all these features correctly. 
 
 ![Imgur](https://i.imgur.com/TqYbshH.jpg) 
- 
 
 Another speaker from Day 1, **James Young**, spoke on State Channels and provided a world of value on this topic. 
 

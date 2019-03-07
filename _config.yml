@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://decentral.solutions
+url: https://decentral.partners
 root: /
 services: /services
 team: /team
@@ -82,4 +82,12 @@ theme: decentral # change this
 deploy:
   type:
 
+google_maps_api_key: AIzaSyAks_A2m5LhySAMVMmBbVmOXnuL7ptnjs8
+
+logo_title: Decentral
+
+link_case_studious: /case-studies/
+name_case_studious: Case Studies
+link_blog: /blog/
+name_blog: Blog
 
